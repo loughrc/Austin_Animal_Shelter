@@ -1,4 +1,4 @@
-## Austin Animal Shelter: 
+## Austin Animal Shelter Outcomes
 
 ### Introduction:
 This is a short and simple data exploration project involving a basic data cleaning exercise and model building to predict the outcome for animals that resided in Austin Animal Shelter, the largest no-kill animal shelter in the USA.
